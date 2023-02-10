@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/sushantkrsky" target="blank"><img src="https://img.shields.io/twitter/follow/sushantkrsky?logo=twitter&style=for-the-badge" alt="sushantkrsky" /></a> </p>
 
-- 🔭 I’m currently working on **becoming the best I can possibly be**
+- 🔭 I’m currently working on **: becoming the best I can possibly be**
 
 - 🌱 I’m currently learning **: all about Development, Frameworks and Databases**
 
-- 👨‍💻 All of my projects are available at [https://sushantkrsky.me/](https://sushantkrsky.me/)
-
 - 💬 Ask me about **: Web Development**
+
+- 👨‍💻 All of my projects are available at : [https://sushantkrsky.me/](https://sushantkrsky.me/)
 
 - 📫 How to reach me **: sushantkrsky@gmail.com**
 
