@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **becoming the best I can possibly be**
 
-- 🌱 I’m currently learning **all about Frameworks, Full stack Development**
+- 🌱 I’m currently learning **: all about Development, Frameworks and Databases**
 
 - 👨‍💻 All of my projects are available at [https://sushantkrsky.me/](https://sushantkrsky.me/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **: Web Development**
 
-- 📫 How to reach me **sushantkrsky@gmail.com**
+- 📫 How to reach me **: sushantkrsky@gmail.com**
 
 - ⚡ Fun fact **: I love learning about everything, and I love to read fiction books about time travel**
 
