@@ -24,11 +24,12 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
-
 
 
 <p align="left"> <a href="https://twitter.com/sushantkrsky" target="blank"><img src="https://img.shields.io/twitter/follow/sushantkrsky?logo=twitter&style=for-the-badge" alt="sushantkrsky" /></a> </p>
+
+<h3 align="center">👩‍💻  About Me</h3>
+
 
 - 🔭 I’m currently working on **Full Stack Web Development.**
 
