@@ -20,7 +20,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Sushant</h1>
-<h1 align="center">A passionate Frontend Developer from India </h1>
+<h3 align="center">A passionate Frontend Developer from India </h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 <p align="left"> <a href="https://twitter.com/sushantkrsky" target="blank"><img src="https://img.shields.io/twitter/follow/sushantkrsky?logo=twitter&style=for-the-badge" alt="sushantkrsky" /></a> </p>
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h1 align="center">👩‍💻  About Me</h1>
 
 
 - 🔭 I’m currently working on **Full Stack Web Development.**
