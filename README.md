@@ -6,21 +6,20 @@
 
 <div align="center">
  <a href="https://linkedin.com/in/sushantkrsky" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/> </a>
- <a href="https://youtube.com/sushantkrsky" target="blank"> <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  /> </a>
- <a href="https://youtube.com/sushantkrsky" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  /> </a>
+ <a href="https://github.com/sushantkrsky" target="blank"> <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  /> </a>
+ <a href="https://instagram.com/sushantkrsky" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /> </a>
 </div>
 
 ###
 
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=sushantkrsky&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkrsky" />
-
 </div>
 
 ###
 
 <h1 align="center">Hi 👋, I'm Sushant</h1>
-<h3 align="center">A passionate Frontend Developer from India </h3>
+<h4 align="center">A passionate Frontend Developer from India</h4>
 
 ###
 
@@ -62,8 +61,15 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sushantkrsky"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sushantkrsky" /></a><a href="https://ko-fi.com/sushantkrsky"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sushantkrsky" /></a></p><br><br>
 
+###
+
+<h2 align="center">🔥   My Stats :</h2>
+
+###
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantkrsk&show_icons=true&locale=en&layout=compact" alt="sushantkrsky" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantkrsk&show_icons=true&locale=en" alt="sushantkrsky" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkrsk&" alt="sushantkrsky" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkrsk&" alt="sushantkrsky" /></p>
