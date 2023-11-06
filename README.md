@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **all about DSA, Software Development, Frameworks and Databases.**
 
-- 👯 I’m looking to collaborate on **Project Automatic Number Plate Recognition System(ANPR)**
+- 👯 I’m looking to collaborate on **Project "Automatic Number Plate Recognition System(ANPR)".**
 
 - 👨‍💻 All of my projects are available at [sushantkrsky.me](sushantkrsky.me)
 
