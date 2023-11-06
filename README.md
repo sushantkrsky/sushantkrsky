@@ -10,19 +10,14 @@
  <a href="https://instagram.com/sushantkrsky" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /> </a>
 </div>
 
+
 ###
 
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=sushantkrsky&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkrsky" />
 </div>
 
-###
-
 <h1 align="center">Hi 👋, I'm Sushant</h1>
-<h4 align="center">A passionate Frontend Developer from India</h4>
-
-###
-
 
 
 <p align="left"> <a href="https://twitter.com/sushantkrsky" target="blank"><img src="https://img.shields.io/twitter/follow/sushantkrsky?logo=twitter&style=for-the-badge" alt="sushantkrsky" /></a> </p>
@@ -30,6 +25,7 @@
 <h1 align="center">👩‍💻  About Me</h1>
 
 
+- 🌐 I’m a passionate **Frontend Web Developer from India.**
 - 🔭 I’m currently working on **Full Stack Web Development.**
 
 - 🌱 I’m currently learning **all about DSA, Software Development, Frameworks and Databases.**
