@@ -18,16 +18,13 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-
-
 <h1 align="center">Hi 👋, I'm Sushant</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
+###
+
+<h3 align="center">👩‍💻  About Me</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantkrsky&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkrsky" /> </p>
 
