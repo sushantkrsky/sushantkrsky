@@ -11,7 +11,7 @@ Hi 👋, Sushant here.
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/sushantkrsk?style=social)    <img src="https://komarev.com/ghpvc/?username=sushantkrsky&label=Sushant's%20Profile%20Views&color=0e75b6&style=flat" alt="sushantkrsky" />
+![GitHub followers](https://img.shields.io/github/followers/sushantkrsky?style=social)    <img src="https://komarev.com/ghpvc/?username=sushantkrsky&label=Sushant's%20Profile%20Views&color=0e75b6&style=flat" alt="sushantkrsky" />
 </div>
 
 <pre>
