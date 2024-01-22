@@ -111,11 +111,11 @@ Hi 👋, Sushant here.
 
 ## My Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantkrsk&show_icons=true&locale=en&layout=compact" alt="sushantkrsky" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantkrsky&show_icons=true&locale=en&layout=compact" alt="sushantkrsky" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantkrsk&show_icons=true&locale=en" alt="sushantkrsky" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantkrsky&show_icons=true&locale=en" alt="sushantkrsky" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkrsk&" alt="sushantkrsky" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkrsky&" alt="sushantkrsky" /></p>
 
 <h3 align="left">💡 Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sushantkrsky"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sushantkrsky" /></a><a href="https://ko-fi.com/sushantkrsky"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sushantkrsky" /></a></p><br><br>
