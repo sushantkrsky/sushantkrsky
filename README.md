@@ -17,18 +17,12 @@
 
 
 - 🌐 I’m a passionate Frontend Web Developer from India.
-  
 - 🔭 I’m currently working on Full Stack Web Development.
-
 - 🌱 I’m currently learning all about DSA, Software Development, Frameworks and Databases.
-
-- 👯 I’m looking to collaborate on Project "Automatic Number Plate Recognition System"(ANPR)
-
-- 👨‍💻 All of my projects are available at [sushantkrsky.me](sushantkrsky.me)
-
+- 👯 I’m looking to collaborate on Project based on "AI/ML"
 - 💬 Ask me about What motivates you to work hard.
-
 - 📫 How to reach me sushantkrsky@gmail.com
+- 👨‍💻 All of my projects are available at [sushantkrsky.me](sushantkrsky.me)
 
 
 <!--Profile Count Badge-->
