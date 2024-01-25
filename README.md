@@ -191,7 +191,7 @@ Hi 👋, Sushant here.
 </div>
 
 <div align="center">
-<a href="https://ko-fi.com/sushantkrsky" target="_blank"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="sushantkrsky style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://ko-fi.com/sushantkrsky" target="_blank"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png" alt="sushantkrsky style="height: 35px !important; width: 200px !important;" ></a>
 </div>
 
 
