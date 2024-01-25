@@ -1,18 +1,19 @@
-<h1 align="center">
-Hi 👋, Sushant here.
-</h1>
+<!--Banner-->
+![sushantkrsky Banner Image](./banner.jpg)
 
-
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-##
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ sushant! 
+*CSE Major (Developer / Programmer)*
+<br />
 
-<div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/sushantkrsky?style=social)    <img src="https://komarev.com/ghpvc/?username=sushantkrsky&label=Sushant's%20Profile%20Views&color=0e75b6&style=flat" alt="sushantkrsky" />
-</div>
+<!--Start Intro-->               
+<p align="left">I am a Frontend Developer and Machine Learning Enthusiast with a huge love for C++, Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 <pre>
 <h1 align="left">👩‍💻About Me </h1>
@@ -31,6 +32,16 @@ Hi 👋, Sushant here.
 - 📫 How to reach me sushantkrsky@gmail.com
 
 </pre>
+
+<!--Profile Count Badge-->
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=sushantkrsky&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=star" alt="sushantkrsky" style="padding-right:20px;" />
+</p>
+
+---
+<br />
+
+
 
 ## 💻Languages
 <p>
