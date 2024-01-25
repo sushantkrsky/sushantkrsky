@@ -15,8 +15,7 @@
 <!--Start Intro-->               
 <p align="left">I am a Frontend Developer and Machine Learning Enthusiast with a huge love for C++, Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
-<pre>
-<h1 align="left">👩‍💻About Me </h1>
+
 - 🌐 I’m a passionate Frontend Web Developer from India.
   
 - 🔭 I’m currently working on Full Stack Web Development.
@@ -31,7 +30,6 @@
 
 - 📫 How to reach me sushantkrsky@gmail.com
 
-</pre>
 
 <!--Profile Count Badge-->
 <p align="left">
