@@ -94,28 +94,109 @@ Hi 👋, Sushant here.
 
 ---
 
-## Follow me
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<a href="https://www.linkedin.com/in/sushantkrsky/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=0078D2"/>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sushantkrsky">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantkrsky&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sushantkrsky">
+          <img align="center" src="https://streak-stats.demolab.com?user=sushantkrsky&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sushantkrsky/Chatbot-for-Healthcare-System-Project">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantkrsky&repo=Chatbot-for-Healthcare-System-Project&theme=nightowl&show_owner=true" alt="Chatbot-for-Healthcare-System-Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sushantkrsky">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sushantkrsky&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushantkrsky&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Dynamic Quote card updated everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+
+
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=Winners%20never%20quit%20and%20quitters%20never%20win.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+
+
+
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/sushantkrsky/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+  
+<a href="mailto:sushantkrsky@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
 <a href="https://www.instagram.com/sushantkrsky" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%2312100E.svg?style=for-the-badge&logo=Instagram&logoColor=EA4335"/>
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://twitter.com/sushantkrsky" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-twitter-%2312100E.svg?logo=twitter&logoColor=1DA1F2&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/sushantkrsky" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-kaggle-%2312100E.svg?logo=kaggle&logoColor=blue&style=for-the-badge&logoColor=20BEFF"/>
-</a>
+</div>
+<br/>
 
-## My Stats
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/sushantkrsky" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantkrsky&show_icons=true&locale=en&layout=compact" alt="sushantkrsky" /></p>
+<div align="center">
+<a href="https://ko-fi.com/sushantkrsky" target="_blank"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="sushantkrsky style="height: 40px !important;width: 200px !important;" ></a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantkrsky&show_icons=true&locale=en" alt="sushantkrsky" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkrsky&" alt="sushantkrsky" /></p>
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
-<h3 align="left">💡 Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sushantkrsky"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sushantkrsky" /></a><a href="https://ko-fi.com/sushantkrsky"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sushantkrsky" /></a></p><br><br>
