@@ -178,7 +178,7 @@
 </a>
   
 <a href="mailto:sushantkrsky@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=sushantkrsky@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/sushantkrsky" target="_blank">
