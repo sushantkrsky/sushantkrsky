@@ -46,16 +46,14 @@
   <a target="_blank">
         <img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=blue"/>
     </a>
+     <a target="_blank">
+        <img alt="JS" src="https://img.shields.io/badge/Javascript-%2312100E.svg?logo=javascript&style=for-the-badge&logoColor=yellow"/>
+    </a>
+
   <a target="_blank">
         <img alt="Java" src="https://img.shields.io/badge/Java-%2312100E.svg?logo=java&logoColor=blue&style=for-the-badge"/>
     </a>  
-  <a target="_blank">
-        <img alt="JS" src="https://img.shields.io/badge/Javascript-%2312100E.svg?logo=javascript&style=for-the-badge&logoColor=yellow"/>
-    </a>
  
-  <a target="_blank">
-        <img alt="SQL" src="https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </a>
     
 </p>
 
@@ -83,12 +81,15 @@
 ![NumPy](https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=NumPy&logoColor=0c6678)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%2312100E.svg?style=for-the-badge&logo=OpenCV&logoColor=5c7ce8)
 ![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-Keras-%2312100E.svg?&logo=Keras&style=for-the-badge)
+
 
 #### Frameworks
 
+![React](https://img.shields.io/badge/React-%2312100E.svg?&logo=react&style=for-the-badge&logoColor=00599C)
 ![Angular](https://img.shields.io/badge/-Angular-%2312100E.svg?&logo=Angular&style=for-the-badge&logoColor=E23237)
 ![DotNet](https://img.shields.io/badge/.NET_Framework-%2312100E.svg?style=for-the-badge&logo=Dotnet&logoColor=512BD4)
-![React](https://img.shields.io/badge/React-%2312100E.svg?&logo=react&style=for-the-badge&logoColor=00599C)
+
 
 #### MLOps
 
@@ -102,7 +103,6 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2312100E?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-%2312100E?style=for-the-badge&logo=postgresql)
-![PowerBI](https://img.shields.io/badge/PowerBI-%2312100E?style=for-the-badge&logo=PowerBI)
 
 ---
 
