@@ -161,6 +161,12 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark&bg_color=011627&author_color=ffeb95)
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=011627&author_color=ffeb95)
+
+
+<!-- 
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=Winners%20never%20quit%20and%20quitters%20never%20win.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
