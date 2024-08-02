@@ -163,8 +163,7 @@
 <!--STARTS_HERE_QUOTE_CARD-->
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark&bg_color=011627&author_color=ffeb95)
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=011627&author_color=ffeb95)
-
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=motivation&theme=dark&bg_color=011627&author_color=ffeb95)
 
 <!-- 
 <p align="center">
