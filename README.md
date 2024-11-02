@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on Project based on "AI/ML"
 - 💬 Ask me about What motivates you to work hard.
 - 📫 How to reach me sushantkrsky@gmail.com
-- 👨‍💻 All of my projects are available at [sushantkrsky.me](sushantkrsky.me)
+- 👨‍💻 All of my projects are available at [sushantkrsky.me](sushantkrsky.github.io)
 
 
 <!--Profile Count Badge-->
